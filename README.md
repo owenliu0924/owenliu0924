@@ -1,41 +1,47 @@
-### Hello word👋 Here's Owen
+# Hello world👋 Here's Owen
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owen0924&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owenliu0924&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owenliu0924&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-💾 I am currently working in SHD Cloud.
+## 😉 About Me
+
+### 💾 I am currently working in SHD Cloud.
 - Founder & Network Operator of SHD Cloud.
 
-🛢️ I am learning?
-- Laravel
+## 🌍 Launguages
+
+### 🛢️ I am learning?
 - PHP
 - Java
 - ASP.NET
 
-🔮 What languages do I use?
+### 🔮 What languages do I use?
+- PHP
 - Javascript
 - Python
 - C#
 - SQL
-- Go
-- HTML&CSS(Although they are not programming language)
+- HTML&CSS(Although they are not programming languages)
 
-🙋‍♂️ What can I do?
+## 🤗 What I do
+
+### 🙋‍♂️ What can I do?
 - DevOps
 - GNU Linux Management
 - Full Stack Development
 - Network Operation
 
-💎 Projects that I made?
-- SHD Cloud Shorten URL System(You can check it out! https://scurl.fun/)
-- SHD Cloud Discord Bot
-- Online Complete Solution(Made with Laravel, it has multi function like e-commerce)
-- Operation Management System(An easy control panel to manage SHD Cloud servers)
-- All SHD Cloud's websites
+### 💎 Projects that I made?
+- [SHD Cloud Integrated Platform](https://scip.shdcloud.xyz) | [Repository](https://github.com/SHD-Development/SHD-Cloud-Integrated-Platofmr)
+- [WIP] File / Media Sharing Platform
 
-❤️ Contact me?
-- Discord:owen0924#9262
-- Email:owen0924@shdhost.xyz
-- My personal website? Nah, currently.
-- But SHD Cloud website? https://www.shdhost.xyz
+---
 
-✨ Most of my projects are not open-source, because safety issue. I will make it better than public them.
+## ❤️ Contact me?
+- Discord: owenliu0924
+- Mail: owenliu0924useful@gmail.com
+- Personal website: https://owen0924.me/
+- SHD Cloud: https://shdcloud.xyz/
+
+✨ PHP isn't dead, and it doesn't suck anymore. I use PHP to build all of my websites, and I enjoy using it. I LOVE LARAVEL!
