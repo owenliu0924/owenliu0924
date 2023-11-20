@@ -1,6 +1,6 @@
 ### Hello word👋 Here's Owen
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owen0924-owen&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owen0924&show_icons=true&theme=tokyonight)
 
 💾 I am currently working in SHD Cloud.
 - Founder & Network Operator of SHD Cloud.
