@@ -44,4 +44,4 @@
 - Personal website: https://owen0924.me/
 - SHD Cloud: https://shdcloud.xyz/
 
-✨ PHP isn't dead, and it doesn't suck anymore. I use PHP to build all of my websites, and I enjoy using it. I LOVE LARAVEL!
+✨ PHP isn't dead, and it doesn't suck anymore. I use PHP to build all of my websites, and I enjoy using it. I LOVE LARAVEL! PHP IS THE BEST!
