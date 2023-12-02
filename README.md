@@ -33,7 +33,7 @@
 - Network Operation
 
 ### 💎 Projects that I made?
-- [SHD Cloud Integrated Platform](https://scip.shdcloud.xyz) | [Repository](https://github.com/SHD-Development/SHD-Cloud-Integrated-Platofmr)
+- [SHD Cloud Integrated Platform](https://scip.shdcloud.xyz) | [Repository](https://github.com/SHD-Development/SHD-Cloud-Integrated-Platform)
 - [WIP] File / Media Sharing Platform | [Repository](https://github.com/owenliu0924/File-Sharing-Platform)
 
 ---
