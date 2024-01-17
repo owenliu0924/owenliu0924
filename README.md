@@ -8,13 +8,17 @@
 
 ### 💾 I am currently working in SHD Cloud.
 - Founder & Network Operator of SHD Cloud.
+- Also a community manager of SHD Cloud.
+
+### 👀 In progress
+- SHDactyl → PHP (Laravel)
+- File Sharing Platform → PHP
 
 ## 🌍 Launguages
 
 ### 🛢️ I am learning?
-- PHP
 - Java
-- ASP.NET
+- Ruby on Rails
 
 ### 🔮 What languages do I use?
 - PHP
@@ -22,7 +26,7 @@
 - Python
 - C#
 - SQL
-- HTML&CSS(Although they are not programming languages)
+- HTML&CSS (Although they are not programming languages.)
 
 ## 🤗 What I do
 
@@ -33,8 +37,9 @@
 - Network Operation
 
 ### 💎 Projects that I made?
-- [SHD Cloud Integrated Platform](https://scip.shdcloud.xyz) | [Repository](https://github.com/SHD-Development/SHD-Cloud-Integrated-Platform)
-- [WIP] File / Media Sharing Platform | [Repository](https://github.com/owenliu0924/File-Sharing-Platform)
+- [WIP] SHDactyl | [Repository](https://github.com/SHD-Development/SHD-Cloud-Integrated-Platform)
+- [Discontinued] [SHD Cloud Integrated Platform](https://scip.shdcloud.xyz) | [Repository](https://github.com/SHD-Development/SHD-Cloud-Integrated-Platform)
+- [WIP] File / Media Sharing Platform | [Repository](https://github.com/owenliu0924/File-Sharing-Platform) 
 
 ---
 
