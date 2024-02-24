@@ -37,7 +37,7 @@
 - Network Operation
 
 ### 💎 Projects that I made?
-- [WIP] SHDactyl | [Repository](https://github.com/SHD-Development/SHD-Cloud-Integrated-Platform)
+- SHDactyl | [Repository](https://github.com/SHD-Development/SHDactyl)
 - [Discontinued] [SHD Cloud Integrated Platform](https://scip.shdcloud.xyz) | [Repository](https://github.com/SHD-Development/SHD-Cloud-Integrated-Platform)
 - [WIP] File / Media Sharing Platform | [Repository](https://github.com/owenliu0924/File-Sharing-Platform) 
 
