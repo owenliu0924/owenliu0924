@@ -26,7 +26,7 @@
 - Python
 - C#
 - SQL
-- HTML&CSS (Although they are not programming languages.)
+- HTML & CSS (Although they are not programming languages.)
 
 ## 🤗 What I do
 
@@ -50,3 +50,7 @@
 - SHD Cloud: https://shdcloud.xyz/
 
 ✨ PHP isn't dead, and it doesn't suck anymore. I use PHP to build all of my websites, and I enjoy using it. I LOVE LARAVEL! PHP IS THE BEST!
+
+---
+https://github-readme-stats.vercel.app/api/pin/?username=SHD-Development&repo=SHDactyl&show_owner=true&theme=catppuccin_mocha
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHD-Development&repo=SHDactyl&show_owner=true&theme=catppuccin_mocha)](https://github.com/SHD-Development/SHDactyl)
