@@ -1,4 +1,4 @@
-# Hello world👋 Here's Owen
+# Hello world👋 Here's Owen.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owenliu0924&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owenliu0924&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
@@ -8,25 +8,18 @@
 
 ### 💾 I am currently working in SHD Cloud.
 - Founder & Network Operator of SHD Cloud.
-- Also a community manager of SHD Cloud.
+- I'm an otaku, an anime lover, and a GalGame(Visual Novel) player, and I love Japanese culture a lot.
 
 ### 👀 In progress
-- SHDactyl → PHP (Laravel)
-- File Sharing Platform → PHP
+- LENAP → Next.js
 
 ## 🌍 Launguages
 
 ### 🛢️ I am learning?
-- Java
-- Ruby on Rails
-
-### 🔮 What languages do I use?
-- PHP
-- Javascript
-- Python
-- C#
-- SQL
-- HTML & CSS (Although they are not programming languages.)
+[![My Skills](https://skillicons.dev/icons?i=rust,java)](https://owen0924.me)
+  
+### 🔮 What languages / frameworks / technologies do I use?
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,ts,py,cs,mysql,postgres,prisma,bash,html,css,nodejs,nextjs,react,docker)](https://owen0924.me)
 
 ## 🤗 What I do
 
@@ -38,8 +31,13 @@
 
 ### 💎 Projects that I made?
 - SHDactyl | [Repository](https://github.com/SHD-Development/SHDactyl)
-- [Discontinued] [SHD Cloud Integrated Platform](https://scip.shdcloud.xyz) | [Repository](https://github.com/SHD-Development/SHD-Cloud-Integrated-Platform)
-- [WIP] File / Media Sharing Platform | [Repository](https://github.com/owenliu0924/File-Sharing-Platform) 
+- [Music Player](https://mp.owen0924.me) | [Repository](https://github.com/SHD-Development/music-player)
+- Gemini Chat Bot | [Repository](https://github.com/SHD-Development/Gemini-Chat-Bot)
+- Arix Traditional Chinese Translation | [Repository](https://github.com/SHD-Development/Arix-Traditional-Chinese)
+- Smilepay Gateway Module for WHMCS | [Repository](https://github.com/owenliu0924/WHMCS-Smilepay-Gateway-Module)
+- Shorten Url Service | [Repository](https://github.com/SHD-Development/Shorten-Url-Service)
+
+
 
 ---
 
