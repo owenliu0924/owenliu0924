@@ -8,7 +8,7 @@
 
 ### 💾 I am currently working in SHD Cloud.
 - Founder & Network Operator of SHD Cloud.
-- I'm an otaku, an anime lover, and a GalGame(Visual Novel) player, and I love Japanese culture a lot.
+- I'm an otaku, an anime lover, and a Galgame(Visual Novel) player, and I love Japanese culture a lot.
 
 ### 👀 In progress
 - LENAP → Next.js
@@ -44,10 +44,10 @@
 ## ❤️ Contact me?
 - Discord: owenliu0924
 - Mail: owenliu0924useful@gmail.com
-- Personal website: https://owen0924.me/
-- SHD Cloud: https://shdcloud.xyz/
+- Personal website: https://owen0924.co/
+- SHD Cloud: https://shdtw.cloud/
 
-✨ PHP isn't dead, and it doesn't suck anymore. I use PHP to build all of my websites, and I enjoy using it. I LOVE LARAVEL! PHP IS THE BEST!
+我真他媽超宅。
 
 ---
 
