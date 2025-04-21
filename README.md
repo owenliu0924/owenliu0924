@@ -1,7 +1,7 @@
 # Hello world👋 Here's Owen.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owenliu0924&show_icons=true&theme=tokyonight)
-](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=owenliu0924)
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=owenliu0924&show_icons=true&theme=tokyonight)
+](https://github.com/owenliu0924)
 
 ## 😉 About Me
 
