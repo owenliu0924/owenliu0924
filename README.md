@@ -50,4 +50,5 @@
 
 ---
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHD-Development&repo=forum&show_owner=true&theme=catppuccin_mocha)](https://github.com/SHD-Development/forum)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHD-Development&repo=SHDactyl&show_owner=true&theme=catppuccin_mocha)](https://github.com/SHD-Development/SHDactyl)
