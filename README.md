@@ -5,17 +5,17 @@
 
 ## 😉 About Me
 
-### 💾 I am currently working in SHD Cloud.
+### 💾 I mainly focus on SHD Cloud.
 - Founder & Network Operator of SHD Cloud.
 - I'm an osu! player, an anime lover, and a Galgame(Visual Novel) player.
 
 ## 🌍 Launguages
 
 ### 🛢️ I am learning?
-[![My Skills](https://skillicons.dev/icons?i=rust,java)](https://owen0924.co)
+[![My Skills](https://skillicons.dev/icons?i=rust,java)](https://owen0924.com)
   
 ### 🔮 What languages / frameworks / technologies do I use?
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,php,laravel,js,cs,mysql,postgres,prisma,bash,html,css,nodejs,docker)](https://owen0924.co)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,php,laravel,js,cs,mysql,postgres,prisma,bash,html,css,nodejs,docker)](https://owen0924.com)
 
 ## 🤗 What I do
 
@@ -26,10 +26,10 @@
 - Network Operation
 
 ### 💎 Projects that I made?
-- [Lolidactyl](https://shdtw.cloud) | [Repository](https://github.com/SHD-Development/lolidactyl)
+- [Lolidactyl](https://shdctw.com) | [Repository](https://github.com/SHD-Development/lolidactyl)
 - Forum | [Repository](https://github.com/SHD-Development/forum)
 - (Archived) SHDactyl | [Repository](https://github.com/SHD-Development/SHDactyl)
-- [Music Player](https://mp.owen0924.co) | [Repository](https://github.com/SHD-Development/music-player)
+- Music Player | [Repository](https://github.com/SHD-Development/music-player)
 - Gemini Chat Bot | [Repository](https://github.com/SHD-Development/Gemini-Chat-Bot)
 - Arix Traditional Chinese Translation | [Repository](https://github.com/SHD-Development/Arix-Traditional-Chinese)
 - Smilepay Gateway Module for WHMCS | [Repository](https://github.com/owenliu0924/WHMCS-Smilepay-Gateway-Module)
@@ -42,7 +42,7 @@
 ## ❤️ Contact me?
 - Discord: owenliu0924
 - Mail: owenliu0924useful@gmail.com
-- Personal website: https://owen0924.co/
+- Personal website: https://owen0924.com/
 - SHD Cloud: https://shdctw.com/
 
 ---
