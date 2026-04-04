@@ -1,31 +1,33 @@
-# Hello world👋
+# Ciallo～(∠・ω< )⌒☆
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owenliu0924&show_icons=true&theme=tokyonight)
 ](https://github.com/owenliu0924)
 
-## 😉 About Me
+## About Me
 
-### 💾 I mainly focus on SHD Cloud.
+### I mainly focus on SHD Cloud.
 - Founder & Network Operator of SHD Cloud.
 - I'm an osu! player, an anime lover, and a Galgame(Visual Novel) player.
 
-## 🌍 Launguages
+## Launguages
 
-### 🛢️ I am learning?
-[![My Skills](https://skillicons.dev/icons?i=rust,java)](https://owen0924.com)
+### I am learning?
+[![My Skills](https://skillicons.dev/icons?i=rust)](https://owen0924.com)
   
-### 🔮 What languages / frameworks / technologies do I use?
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,php,laravel,js,cs,mysql,postgres,prisma,bash,html,css,nodejs,docker)](https://owen0924.com)
+### What languages / frameworks / technologies do I use?
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,php,laravel,js,cs,cpp,mysql,postgres,prisma,bash,html,css,nodejs,docker)](https://owen0924.com)
 
-## 🤗 What I do
+## What I do
 
-### 🙋‍♂️ What can I do?
+### What can I do?
 - DevOps
 - GNU Linux Management
 - Full Stack Development
 - Network Operation
 
-### 💎 Projects that I made?
+### Projects that I made?
+- PrismatiXEngine (WIP) | [Repository](https://github.com/owenliu0924/PrismatiXEngine)
 - [Lolidactyl](https://shdctw.com) | [Repository](https://github.com/SHD-Development/lolidactyl)
 - Forum | [Repository](https://github.com/SHD-Development/forum)
 - (Archived) SHDactyl | [Repository](https://github.com/SHD-Development/SHDactyl)
@@ -39,9 +41,9 @@
 
 ---
 
-## ❤️ Contact me?
+## Contact me?
 - Discord: owenliu0924
-- Mail: owenliu0924useful@gmail.com
+- Mail: owen@owen0924.com
 - Personal website: https://owen0924.com/
 - SHD Cloud: https://shdctw.com/
 
