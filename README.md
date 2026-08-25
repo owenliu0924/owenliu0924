@@ -24,9 +24,9 @@
   </p>
 
   <p>
-    <a href="https://owen0924.com">Website</a> ·
-    <a href="mailto:hi@owen0924.com">Email</a> ·
-    <a href="https://github.com/owenliu0924">GitHub</a>
+    <a href="https://owen0924.com"><img src="https://img.shields.io/badge/Website-owen0924.com-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+    <a href="mailto:hi@owen0924.com"><img src="https://img.shields.io/badge/Email-hi%40owen0924.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.threads.net/@owen0924.liu"><img src="https://img.shields.io/badge/Threads-%40owen0924.liu-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></a>
   </p>
 </div>
 
@@ -93,15 +93,15 @@ A lightweight and fast **Telegram AI chatbot** built with **TypeScript**, **gram
 
 ### Languages
 
-![Languages](https://skillicons.dev/icons?i=cpp,ts,js,python,php,bash)
+![Languages](https://skillicons.dev/icons?i=cpp,cs,ts,js,python,php,bash,wasm)
 
-### Web / Backend
+### Web / Backend / AI
 
-![Web](https://skillicons.dev/icons?i=nextjs,react,nodejs,postgres,prisma,laravel)
+![Web and Backend](https://skillicons.dev/icons?i=nextjs,react,nodejs,express,discord,postgres,prisma,laravel,pytorch,supabase)
 
 ### Tools / Infrastructure
 
-![Tools](https://skillicons.dev/icons?i=linux,docker,git,github,cmake)
+![Tools and Infrastructure](https://skillicons.dev/icons?i=linux,arch,kali,ubuntu,docker,nginx,cloudflare,pnpm,git,github,cmake)
 
 ---
 
@@ -112,6 +112,8 @@ A lightweight and fast **Telegram AI chatbot** built with **TypeScript**, **gram
 <a href="https://github-stats-extended.vercel.app/api?username=owenliu0924&show_icons=true&include_all_commits=true&theme=omni">
   <img src="https://github-stats-extended.vercel.app/api?username=owenliu0924&show_icons=true&include_all_commits=true&theme=omni" alt="GitHub Stats" />
 </a>
+
+<br/><br/>
 
 <a href="https://github-stats-extended.vercel.app/api/top-langs?username=owenliu0924&langs_count=4&theme=omni">
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=owenliu0924&langs_count=4&theme=omni" alt="Top Languages" />
@@ -125,6 +127,7 @@ A lightweight and fast **Telegram AI chatbot** built with **TypeScript**, **gram
 
 - **Website:** https://owen0924.com
 - **Email:** hi@owen0924.com
+- **Threads:** @owen0924.liu
 - **Discord:** owenliu0924
 
 ---
