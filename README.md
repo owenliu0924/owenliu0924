@@ -9,7 +9,7 @@
       </a>
     </td>
     <td width="38%" align="center" valign="middle">
-      <img src="./assets/illya.png" alt="Illya" width="280" />
+      <img src="./assets/illya.png" alt="Illya" width="340" />
     </td>
   </tr>
 </table>
