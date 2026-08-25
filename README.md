@@ -1,52 +1,129 @@
 # Ciallo～(∠・ω< )⌒☆
 
+<div align="center">
+  <img src="./assets/illya.png" alt="Illya" width="280" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owenliu0924&show_icons=true&theme=tokyonight)
-](https://github.com/owenliu0924)
+  <h2>Owen Liu</h2>
+
+  <p>
+    I build things across <b>C++</b>, <b>TypeScript</b>, <b>AI</b>, and <b>infrastructure</b>.<br/>
+    I enjoy making systems from scratch, exploring how models work, and occasionally overengineering side projects for fun.
+  </p>
+
+  <p>
+    <a href="https://owen0924.com">Website</a> ·
+    <a href="mailto:hi@owen0924.com">Email</a> ·
+    <a href="https://github.com/owenliu0924">GitHub</a>
+  </p>
+</div>
+
+---
 
 ## About Me
 
-### I mainly focus on SHD Cloud.
-- Founder & Network Operator of SHD Cloud.
-- I'm an osu! player, an anime lover, and a Galgame(Visual Novel) player.
+I'm a developer who likes working in the space between **low-level systems** and **high-level products**.
 
-## Launguages
+Right now, I'm especially interested in:
 
-### I am learning?
-[![My Skills](https://skillicons.dev/icons?i=rust)](https://owen0924.com)
-  
-### What languages / frameworks / technologies do I use?
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,php,laravel,js,cs,cpp,mysql,postgres,prisma,bash,html,css,nodejs,docker)](https://owen0924.com)
+- **C++ / engine architecture**
+- **AI, LLMs, and Transformer-related topics**
+- **Backend development and developer tooling**
+- **Linux, Docker, and self-hosted infrastructure**
+- **Building things that are both practical and fun**
 
-## What I do
-
-### What can I do?
-- DevOps
-- GNU Linux Management
-- Full Stack Development
-- Network Operation
-
-### Projects that I made?
-- PrismatiXEngine (WIP) | [Repository](https://github.com/owenliu0924/PrismatiXEngine)
-- [Lolidactyl](https://shdctw.com) | [Repository](https://github.com/SHD-Development/lolidactyl)
-- Forum | [Repository](https://github.com/SHD-Development/forum)
-- (Archived) SHDactyl | [Repository](https://github.com/SHD-Development/SHDactyl)
-- Music Player | [Repository](https://github.com/SHD-Development/music-player)
-- Gemini Chat Bot | [Repository](https://github.com/SHD-Development/Gemini-Chat-Bot)
-- Arix Traditional Chinese Translation | [Repository](https://github.com/SHD-Development/Arix-Traditional-Chinese)
-- Smilepay Gateway Module for WHMCS | [Repository](https://github.com/owenliu0924/WHMCS-Smilepay-Gateway-Module)
-- Shorten Url Service | [Repository](https://github.com/SHD-Development/Shorten-Url-Service)
-
-
+Outside of programming, I like **anime**, **visual novels**, and **rhythm games** — especially **osu!** and **maimai**.
 
 ---
 
-## Contact me?
-- Discord: owenliu0924
-- Mail: owen@owen0924.com
-- Personal website: https://owen0924.com/
-- SHD Cloud: https://shdctw.com/
+## Interests
+
+```text
+C++ / System Design
+Visual Novel Engines
+AI & Transformer Internals
+LLM Inference
+Web Development
+Linux & Self-Hosting
+Anime / Visual Novels
+osu! / maimai
+```
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHD-Development&repo=lolidactyl&show_owner=true&theme=catppuccin_mocha)](https://github.com/SHD-Development/lolidactyl)
+## Featured Projects
+
+### [PrismatiXEngine](https://github.com/owenliu0924/PrismatiXEngine)
+
+A modern **visual novel runtime** built with **C++20** and **SDL3**, designed around typed contracts, modular architecture, and sandboxed JavaScript extensions.
+
+### [lolidactyl](https://github.com/SHD-Development/lolidactyl)
+
+A project from my hosting and infrastructure days, built around server management and the SHD Cloud ecosystem.
+
+### [Avocados-Intelligence](https://github.com/owenliu0924/Avocados-Intelligence)
+
+An AI-related project exploring model systems, tooling, and practical AI applications.
+
+### HCCA
+
+A school-related web platform focused on rebuilding and modernizing internal services with a cleaner architecture and user experience.
+
+[Frontend](https://github.com/owenliu0924/hcca_frontend) · [Backend](https://github.com/owenliu0924/hcca_backend)
+
+### [SoraGram](https://github.com/owenliu0924/SoraGram)
+
+A lightweight and fast **Telegram AI chatbot** built with **TypeScript**, **grammY**, **Vercel AI SDK**, **PostgreSQL**, and **Drizzle**.
+
+---
+
+## Tech Stack
+
+### Languages
+
+![Languages](https://skillicons.dev/icons?i=cpp,ts,js,python,php,bash)
+
+### Web / Backend
+
+![Web](https://skillicons.dev/icons?i=nextjs,react,nodejs,postgres,prisma,laravel)
+
+### Tools / Infrastructure
+
+![Tools](https://skillicons.dev/icons?i=linux,docker,git,github,cmake)
+
+---
+
+## GitHub
+
+<div align="center">
+
+<a href="https://github.com/owenliu0924">
+  <img src="https://github-readme-stats.vercel.app/api?username=owenliu0924&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</a>
+
+<br/>
+
+<a href="https://github.com/owenliu0924/PrismatiXEngine">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=owenliu0924&repo=PrismatiXEngine&theme=tokyonight&hide_border=true" alt="PrismatiXEngine" />
+</a>
+
+<a href="https://github.com/owenliu0924/SoraGram">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=owenliu0924&repo=SoraGram&theme=tokyonight&hide_border=true" alt="SoraGram" />
+</a>
+
+</div>
+
+---
+
+## Contact
+
+- **Website:** https://owen0924.com
+- **Email:** hi@owen0924.com
+- **Discord:** owenliu0924
+
+---
+
+<div align="center">
+
+### Illya is my wife! ☆
+
+</div>
