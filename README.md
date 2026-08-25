@@ -1,3 +1,4 @@
+<div align="center">
 <table>
   <tr>
     <td width="62%" valign="top">
@@ -12,6 +13,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 <div align="center">
   <h2>Owen Liu</h2>
@@ -107,18 +109,12 @@ A lightweight and fast **Telegram AI chatbot** built with **TypeScript**, **gram
 
 <div align="center">
 
-<a href="https://github.com/owenliu0924">
-  <img src="https://github-readme-stats.vercel.app/api?username=owenliu0924&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<a href="https://github-stats-extended.vercel.app/api?username=owenliu0924&show_icons=true&include_all_commits=true&theme=omni">
+  <img src="https://github-stats-extended.vercel.app/api?username=owenliu0924&show_icons=true&include_all_commits=true&theme=omni" alt="GitHub Stats" />
 </a>
 
-<br/>
-
-<a href="https://github.com/owenliu0924/PrismatiXEngine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=owenliu0924&repo=PrismatiXEngine&theme=tokyonight&hide_border=true" alt="PrismatiXEngine" />
-</a>
-
-<a href="https://github.com/owenliu0924/SoraGram">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=owenliu0924&repo=SoraGram&theme=tokyonight&hide_border=true" alt="SoraGram" />
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=owenliu0924&langs_count=4&theme=omni">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=owenliu0924&langs_count=4&theme=omni" alt="Top Languages" />
 </a>
 
 </div>
