@@ -1,8 +1,19 @@
-# Ciallo～(∠・ω< )⌒☆
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <h1>Ciallo～(∠・ω&lt; )⌒☆</h1>
+      <br/>
+      <a href="https://github.com/journey-ad/Moe-Counter">
+        <img src="https://count.getloli.com/@owenliu0924?name=owenliu0924&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Moe Counter" />
+      </a>
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="./assets/illya.png" alt="Illya" width="280" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <img src="./assets/illya.png" alt="Illya" width="280" />
-
   <h2>Owen Liu</h2>
 
   <p>
