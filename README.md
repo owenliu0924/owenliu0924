@@ -65,9 +65,9 @@ osu! / maimai
 
 ## Featured Projects
 
-### [PrismatiXEngine](https://github.com/owenliu0924/PrismatiXEngine)
+### PrismatiXEngine
 
-A modern **visual novel runtime** built with **C++20** and **SDL3**, designed around typed contracts, modular architecture, and sandboxed JavaScript extensions.
+**Work in progress.** A modern **visual novel engine ecosystem** built around **C++20**, with the runtime currently under active development. The long-term plan goes beyond the engine itself, with tooling such as **PrismatiX Studio** and a broader authoring workflow planned for the future.
 
 ### [lolidactyl](https://github.com/SHD-Development/lolidactyl)
 
@@ -77,15 +77,31 @@ A project from my hosting and infrastructure days, built around server managemen
 
 An AI-related project exploring model systems, tooling, and practical AI applications.
 
-### HCCA
+### HCCA — Hsinchu Campus Civic Affairs
 
-A school-related web platform focused on rebuilding and modernizing internal services with a cleaner architecture and user experience.
+A web platform built for the **Student Association of Hsinchu Senior High School**, focused on modernizing campus services with a cleaner architecture and user experience.
 
 [Frontend](https://github.com/owenliu0924/hcca_frontend) · [Backend](https://github.com/owenliu0924/hcca_backend)
 
 ### [SoraGram](https://github.com/owenliu0924/SoraGram)
 
 A lightweight and fast **Telegram AI chatbot** built with **TypeScript**, **grammY**, **Vercel AI SDK**, **PostgreSQL**, and **Drizzle**.
+
+### [LaTeX to Image](https://github.com/owenliu0924/latex)
+
+A small browser-based tool for rendering **LaTeX equations** into high-resolution PNG images, with live KaTeX preview, customizable styling, and scalable image export.
+
+### Telepress
+
+A **Telegram-powered publishing workflow for static blogs**. It turns a private Telegram chat into a mobile-first authoring interface for drafting, previewing, and publishing Git-backed blog posts. Currently tailored to the content workflow behind **owen0924.com**.
+
+### [CSDC Online Judge Frontend](https://github.com/owenliu0924/csdc-oj-fe)
+
+A modern **Online Judge frontend for the Hsinchu Senior High School Computer Software Development Club**, built with **Next.js**, **Tailwind CSS**, and **shadcn/ui**, with both the public OJ interface and administration features.
+
+### [Self Attention Visualization](https://github.com/owenliu0924/Self_Attention_Visualization)
+
+An interactive visualization project for exploring **Transformer self-attention**, with a **p5.js** frontend and a **PyTorch / FastAPI / Transformers** backend, inspired by BertViz.
 
 ---
 
