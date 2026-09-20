@@ -65,7 +65,15 @@ osu! / maimai
 
 ## Featured Projects
 
+### Maiperatorinator
+
+<img src="./assets/featured/maiperatorinator.svg" alt="Maiperatorinator: audio waveform and musical timing flowing into a generated rhythm-game chart." width="720" />
+
+**Work in progress.** An **ML-powered simai chart generator** for **maimai**. The pipeline separates musical timing from chart generation, uses a typed chart representation, and validates exported charts against an explicit compatibility profile.
+
 ### PrismatiXEngine
+
+<img src="./assets/featured/prismatixengine.svg" alt="PrismatiXEngine: layered scene, state, and rendering planes in a minimal geometric illustration." width="720" />
 
 **Work in progress.** A modern **visual novel engine ecosystem** built around **C++20**, with the runtime currently under active development. The long-term plan goes beyond the engine itself, with tooling such as **PrismatiX Studio** and a broader authoring workflow planned for the future.
 

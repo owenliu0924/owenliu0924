@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="500" viewBox="0 0 720 500" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Maiperatorinator</title>
+  <desc id="desc">An audio waveform and beat markers flow through a chart-sequence grid into an eight-position rhythm-game chart. Conceptual artwork, not a measured model output.</desc>
+  <rect width="720" height="500" fill="#12191b"/>
+  <g stroke="#b9d0d6">
+    <path d="M24 40V24h16M680 24h16v16M24 460v16h16M680 476h16v-16" opacity=".35"/>
+    <path d="M55 250h149M74 195v110M110 195v110M146 195v110M182 195v110" opacity=".12"/>
+    <path d="M57 250h9l5-15 7 35 8-53 8 70 8-102 8 127 8-93 8 59 7-39 7 22 8-9h7l6-25 8 49 8-37 6 16h17" opacity=".8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M57 320h142M74 315v10M110 315v10M146 315v10M182 315v10" opacity=".35"/>
+    <path d="M207 250h31m-6-4 6 4-6 4M435 250h28m-6-4 6 4-6 4" opacity=".45"/>
+    <path d="M259 159h-10v183h10M411 159h10v183h-10" opacity=".45"/>
+    <path d="M267 165v171M290 165v171M313 165v171M336 165v171M359 165v171M382 165v171M405 165v171M267 165h138M267 193h138M267 221h138M267 249h138M267 277h138M267 305h138M267 333h138" opacity=".12"/>
+    <path d="M267 249h138" stroke-dasharray="2 5" opacity=".38"/>
+    <circle cx="555" cy="250" r="100" stroke-dasharray="2 9" opacity=".2"/>
+    <circle cx="555" cy="250" r="78" opacity=".4"/>
+    <circle cx="555" cy="250" r="53" opacity=".12"/>
+    <path d="M555 138v12M555 350v12M443 250h12M655 250h12" opacity=".3"/>
+    <path d="M555 176v148M481 250h148" opacity=".08"/>
+    <path d="m578 194 7-16M611 227l16-7M611 273l16 7M578 306l7 16M532 306l-7 16M499 273l-16 7M499 227l-16-7M532 194l-7-16" opacity=".35"/>
+    <g fill="#12191b" opacity=".7">
+      <circle cx="585" cy="178" r="6"/><circle cx="627" cy="220" r="6"/><circle cx="627" cy="280" r="6"/><circle cx="585" cy="322" r="6"/>
+      <circle cx="525" cy="322" r="6"/><circle cx="483" cy="280" r="6"/><circle cx="483" cy="220" r="6"/><circle cx="525" cy="178" r="6"/>
+    </g>
+    <path d="m601 231-16 7" stroke-width="7" opacity=".2" stroke-linecap="round"/>
+    <path d="m601 231-16 7" opacity=".75" stroke-linecap="round"/>
+    <circle cx="601" cy="231" r="5" fill="#12191b"/>
+    <circle cx="536" cy="296" r="5" opacity=".8"/>
+    <circle cx="517" cy="212" r="5" opacity=".8"/>
+    <path d="m545 239 21 22m0-22-21 22" opacity=".12"/>
+  </g>
+  <g fill="#b9d0d6">
+    <circle cx="74" cy="320" r="2.5" opacity=".85"/><circle cx="110" cy="320" r="2" opacity=".5"/><circle cx="146" cy="320" r="2" opacity=".5"/><circle cx="182" cy="320" r="2.5" opacity=".85"/>
+    <rect x="271" y="169" width="15" height="15" opacity=".8"/>
+    <rect x="317" y="197" width="15" height="15" opacity=".62"/>
+    <rect x="340" y="225" width="15" height="15" opacity=".8"/>
+    <rect x="386" y="225" width="15" height="15" opacity=".8"/>
+    <rect x="294" y="253" width="15" height="71" opacity=".18"/>
+    <rect x="294" y="253" width="15" height="15" opacity=".7"/>
+    <rect x="300" y="269" width="3" height="55" opacity=".65"/>
+    <rect x="363" y="281" width="15" height="15" opacity=".55"/>
+    <rect x="340" y="309" width="15" height="15" opacity=".7"/>
+  </g>
+  <g fill="#b9d0d6" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing=".75">
+    <text x="55" y="84">AUDIO / TIMING / CHART</text>
+    <g font-size="10" opacity=".75"><text x="57" y="154">WAVEFORM</text><text x="267" y="142">SEQUENCE</text><text x="555" y="126" text-anchor="middle">CHART</text><text x="57" y="355">BEAT GRID</text></g>
+    <text x="493" y="420">IN DEVELOPMENT</text>
+    <g font-size="9" letter-spacing=".6" opacity=".8"><text x="24" y="457">MUSIC INTO CHARTS</text><text x="696" y="457" text-anchor="end">CONCEPT VISUAL</text></g>
+  </g>
+</svg>
