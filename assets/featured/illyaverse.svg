@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="500" viewBox="0 0 720 500" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Illyaverse</title>
+  <desc id="desc">A faceted kaleidoscope at the center of an orbit of rhythm-game hit circles. A conceptual illustration of players sharing an osu! community server.</desc>
+  <rect width="720" height="500" fill="#19151a"/>
+  <g stroke="#d6bac8">
+    <path d="M24 40V24h16M680 24h16v16M24 460v16h16M680 476h16v-16" opacity=".35"/>
+    <ellipse cx="360" cy="250" rx="232" ry="76" transform="rotate(-16 360 250)" opacity=".26"/>
+    <path d="M137 314 206 232 409 161 583 186M137 314 311 339 514 268 583 186" stroke-dasharray="2 7" opacity=".2"/>
+    <circle cx="360" cy="250" r="112" stroke-dasharray="2 9" opacity=".18"/>
+    <circle cx="360" cy="250" r="87" fill="#19151a" opacity="1" stroke-opacity=".36"/>
+    <circle cx="360" cy="250" r="78" opacity=".12"/>
+    <path d="M360 129v9M360 362v9M239 250h9M472 250h9" opacity=".4"/>
+    <path d="m280 170 6 6m148 148 6 6m0-160-6 6M286 324l-6 6" opacity=".2"/>
+    <g fill="#19151a">
+      <circle cx="137" cy="314" r="34" stroke-opacity=".2"/>
+      <circle cx="137" cy="314" r="23" stroke-opacity=".72"/>
+      <circle cx="137" cy="314" r="16" stroke-opacity=".24"/>
+      <circle cx="583" cy="186" r="34" stroke-opacity=".2"/>
+      <circle cx="583" cy="186" r="23" stroke-opacity=".72"/>
+      <circle cx="583" cy="186" r="16" stroke-opacity=".24"/>
+      <circle cx="206" cy="232" r="9" stroke-opacity=".6"/>
+      <circle cx="514" cy="268" r="9" stroke-opacity=".6"/>
+      <circle cx="409" cy="161" r="22" stroke-opacity=".18"/>
+      <circle cx="409" cy="161" r="12" stroke-opacity=".6"/>
+      <circle cx="311" cy="339" r="22" stroke-opacity=".18"/>
+      <circle cx="311" cy="339" r="12" stroke-opacity=".6"/>
+    </g>
+    <path d="M103 314h-9m43 34v9M617 186h9m-43-34v-9" opacity=".28"/>
+  </g>
+  <g transform="translate(360 250)">
+    <g stroke="#d6bac8" stroke-opacity=".64" stroke-linejoin="round">
+      <path d="M0-71 18-40 0-19-18-40Z" fill="#f28eb6" fill-opacity=".14"/>
+      <path d="M0-71 18-40 0-19-18-40Z" transform="rotate(60)" fill="#f28eb6" fill-opacity=".04"/>
+      <path d="M0-71 18-40 0-19-18-40Z" transform="rotate(120)" fill="#f28eb6" fill-opacity=".14"/>
+      <path d="M0-71 18-40 0-19-18-40Z" transform="rotate(180)" fill="#f28eb6" fill-opacity=".04"/>
+      <path d="M0-71 18-40 0-19-18-40Z" transform="rotate(240)" fill="#f28eb6" fill-opacity=".14"/>
+      <path d="M0-71 18-40 0-19-18-40Z" transform="rotate(300)" fill="#f28eb6" fill-opacity=".04"/>
+      <path d="M0-71v52M61.5-35.5 16.5-9.5m45 45-45-26M0 71V19m-61.5 16.5 45-26m-45-45 45 26" stroke-opacity=".3"/>
+      <path d="M0-19 16.5-9.5v19L0 19-16.5 9.5v-19Z" stroke-opacity=".42"/>
+    </g>
+    <path d="M0-7 6.1-3.5v7L0 7-6.1 3.5v-7Z" fill="#f28eb6" opacity=".9"/>
+  </g>
+  <g fill="#f28eb6">
+    <circle cx="137" cy="314" r="3" opacity=".9"/>
+    <circle cx="583" cy="186" r="3" opacity=".9"/>
+    <circle cx="409" cy="161" r="2" opacity=".65"/>
+    <circle cx="311" cy="339" r="2" opacity=".65"/>
+  </g>
+  <g fill="#d6bac8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing=".75">
+    <text x="55" y="84">RHYTHM / PLAYERS / COMMUNITY</text>
+    <text x="493" y="420">IN DEVELOPMENT</text>
+    <g font-size="9" letter-spacing=".6" opacity=".8"><text x="24" y="457">A PLACE TO PLAY</text><text x="696" y="457" text-anchor="end">CONCEPT VISUAL</text></g>
+  </g>
+</svg>

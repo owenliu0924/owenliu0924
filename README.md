@@ -77,6 +77,12 @@ osu! / maimai
 
 **Work in progress.** A modern **visual novel engine ecosystem** built around **C++20**, with the runtime currently under active development. The long-term plan goes beyond the engine itself, with tooling such as **PrismatiX Studio** and a broader authoring workflow planned for the future.
 
+### [Illyaverse](https://github.com/Illyavrs/Illyaverse)
+
+<img src="./assets/featured/illyaverse.svg" alt="Illyaverse: rhythm circles and a faceted star connected in an orbital constellation." width="720" />
+
+**Work in progress.** A self-hosted **osu! community server** for **stable and lazer**, with a customizable **Next.js** player website, **Rust** backend services, and a dedicated launcher. It brings accounts, beatmaps, scores, replays, rankings, and chat together in one deployment.
+
 ### [lolidactyl](https://github.com/SHD-Development/lolidactyl)
 
 A project from my hosting and infrastructure days, built around server management and the SHD Cloud ecosystem.
